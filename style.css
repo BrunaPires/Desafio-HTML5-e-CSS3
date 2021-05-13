@@ -1,0 +1,25 @@
+body {
+    background: #43c6ac;
+    font: 13pt Arial;
+}
+
+main {
+    background-color: white;
+    width: 500px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #30503a;
+    text-align: center;
+}
+
+
+a {
+    color: #30503a;
+    text-decoration: none;
+    font-weight: bolder;
+}
